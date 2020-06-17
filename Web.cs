@@ -11,7 +11,7 @@ namespace DkpOverlay
 {
 	public class Web
 	{
-		public string SessionID { get; set; };
+		public string SessionID { get; set; }
 
 		private Uri Domain = new Uri(Settings.Default.CookieDomain);
 

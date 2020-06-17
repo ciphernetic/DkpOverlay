@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DkpOverlay.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DkpUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.thatseqbaby.com/ResourceCenter/DKP.php</Value>
+    </Setting>
+    <Setting Name="CookieID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PHPSESSID</Value>
+    </Setting>
+    <Setting Name="CookieDomain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.thatseqbaby.com/</Value>
+    </Setting>
+    <Setting Name="LoginUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.thatseqbaby.com/ResourceCenter/Welcome.php</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

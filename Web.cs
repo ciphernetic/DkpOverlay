@@ -46,7 +46,7 @@ namespace DkpOverlay
 		public string GetRA(HtmlDocument doc)
 		{
 			// this code be made a lot easier with IDs set on these table cells.
-			return doc.DocumentNode.SelectSingleNode("/html[1]/body[1]/table[1]/tr[2]/td[2]/table[2]/tr[2]/td[1]/table[1]/tr[2]/td[6]").InnerText;
+			return doc.DocumentNode.SelectSingleNode("/html[1]/body[1]/table[1]/tr[2]/td[2]/table[2]/tr[2]/td[1]/table[1]/tr[2]/td[7]").InnerText;
 		}
 
 		public string GetSessionId(string userName, string password)
